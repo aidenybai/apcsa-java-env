@@ -1,0 +1,1 @@
+Open `official.code-workspace` in VSCode
