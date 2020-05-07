@@ -1,3 +1,0 @@
-# AP Computer Science Environment
-
-Open `official.code-workspace` as a workspace
