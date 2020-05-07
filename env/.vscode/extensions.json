@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "afamel.subtle-brackets",
+    "visualstudioexptteam.vscodeintellicode",
+    "christian-kohler.npm-intellisense",
+    "pkief.material-icon-theme",
+    "redhat.java",
+    "formulahendry.code-runner",
+    "pustur.calamity-vscode"
+  ]
+}
