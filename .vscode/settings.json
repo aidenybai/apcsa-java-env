@@ -2,5 +2,10 @@
   "editor.formatOnSave": true,
   "files.eol": "\n",
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 500
+  "files.autoSaveDelay": 500,
+  "subtleBrackets.style": {
+    "borderWidth": "1px",
+    "borderStyle": "solid",
+    "borderRadius": "1px"
+  }
 }
