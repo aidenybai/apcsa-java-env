@@ -5,8 +5,6 @@
     "christian-kohler.npm-intellisense",
     "pkief.material-icon-theme",
     "redhat.java",
-    "formulahendry.code-runner",
-    "pustur.calamity-vscode",
-    "skacekachna.win-opacity"
+    "formulahendry.code-runner"
   ]
 }
